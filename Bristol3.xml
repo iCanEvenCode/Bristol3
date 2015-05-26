@@ -7,7 +7,7 @@
       </block>
     </value>
     <statement name="DO">
-      <block type="movement_stop" id="147"></block>
+      <block type="movement_forward" id="178"></block>
     </statement>
   </block>
 </xml>
